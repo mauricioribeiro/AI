@@ -1,2 +1,2 @@
 # AI
-Artificial Inteligence stuff
+Artificial Intelligence stuff
